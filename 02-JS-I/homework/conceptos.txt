@@ -20,4 +20,4 @@ Declaraciones:
 Valores Booleanos:
 Los booleanos se usan para indicar si se cumple o no una condición. 
     true: Indica que la condición es verdadera.
-    false: Indica que la condición es falsa.
+    false: Indica que la condición es falsa..
