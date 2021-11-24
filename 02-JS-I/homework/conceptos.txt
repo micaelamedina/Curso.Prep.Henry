@@ -1,0 +1,23 @@
+Conceptos Básicos:
+
+Variables:
+Una variable es una forma de almacenar el valor de algo para poder usarlo más tarde. Para declarar una variable, utilizamos la palabra clave var seguida de un espacio y el nombre (palabra clave) que le otorgamos a la variable.
+Para darle valor a una variable, lo hacemos a través de el signo igual = . Las palabras claves, son palabras especiales, cada lenguaje tiene keywords reservadas que no pueden ser usadas como nombre de variable.
+
+Strings:
+Las strings son cadenas de caracteres. Las mismas siempre se colocan entre comillas, ya sean simples o dobles. 
+
+Funciones: 
+Las funciones son conjuntos de códigos que hacen algo en particular. Nos ayudan a impedir que repitamos codigos que ya utilizamos, entonces al almacenarlos en una funcion, ya lo tenemos determinado para la próxima vez que lo utilicemos.
+
+    Argumentos: Los argumentos son los valores que utiliza la funcion para realizar la acción. El argumento se agrega entre los parentesis junto a la función. Al solicitar un argumento, estamos creando una variable que luego podemos utilizar en la función.
+    Return: Con este comando finalizamos completamente la función, ningun codigo que se introduzca debajo será ejecutado una vez que colocamos return. Este comando lo que hace es devolvernos el resultado de la función.
+
+Declaraciones:
+
+    if: Significa si. Al utilizarlo en una funcion, podemos solicitar a el interprete que si tal requisito se cumple, se ejecute tal acción.
+
+Valores Booleanos:
+Los booleanos se usan para indicar si se cumple o no una condición. 
+    true: Indica que la condición es verdadera.
+    false: Indica que la condición es falsa.
