@@ -1,0 +1,9 @@
+Definiciones:
+
+Let: El bucle let nos sirve para solicitar que se repita un mismo codigo hasta cierta cantidad de veces, sin la necesidad de tener que volver a tipearlo, copiarlo y pegarlo.
+
+&&: Es el operador y (and). Esto evalua ambas expresiones y devuelve verdadero solo si ambas expresiones son verdaderas.
+
+||: Es el operador o 'or' Determina si una de las dos expresiones es verdadera y devuelve falso si ambas son falsas. Se usa en expresiones, para indicar que se cumpla tal condicion o tal otra.
+
+!: Es el operador de la negacion. Cuando vemos este operador, nos indica el valor opuesto de lo que pasa.
